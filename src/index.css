@@ -54,6 +54,8 @@ body {
   display: flex;
   overflow: hidden;
   position: relative;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .textarea {
